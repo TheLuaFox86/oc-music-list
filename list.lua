@@ -1,7 +1,7 @@
 return {{
     name="Paranoid",
     author="Black Sabath",
-    path="Paranoid.dfpwm",
+    path="P-BS.dfpwm",
   }, {
     name="Bet On Me",
     author="Walk Off The Earth",
