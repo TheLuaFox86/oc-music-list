@@ -5,14 +5,24 @@ return {{
   }, {
     name="Bet On Me",
     author="Walk Off The Earth",
-    path="BOM-WOFE.dfpwm",
+    path="MainMusic/BOM-WOFE.dfpwm",
   }, {
     name="Stairway To Heavan",
     author="Led Zeplin",
-    path="STH-LZ.dfpwm",
+    path="MainMusic/STH-LZ.dfpwm",
   }, {
     name="SHADOW",
     author="?",
-    path="SH-UNK.dfpwm"
+    path="MainMusic/SH-UNK.dfpwm"
+  },
+  {
+    name="When I Grow Up",
+    author="NF",
+    path="MainMusic/WIGU-NF.dfpwm"
+  },
+  {
+    name="Golden",
+    author="HunterX",
+    path="Pop/G-HX.dfpwm"
   }
 }
