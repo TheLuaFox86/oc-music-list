@@ -23,17 +23,17 @@ return {{
   {
     name="Golden",
     author="HunteriX",
-    path="Pop/G-HX.dfpwm"
+    path="Pop/G-HX.dfpwm".
     genre="pop",
   },
   {
     name="Gods Plan",
     author="Drake",
     path="MainMusic/GP-D.dfpwm,
-  }
+  },
   {
     name="Crash",
-    author="Loud Luxury"
-    path="Pop/C-LL.dfpwm"
-  }
+    author="Loud Luxury",
+    path="Pop/C-LL.dfpwm",
+  },
 }
