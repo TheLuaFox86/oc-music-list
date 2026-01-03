@@ -5,7 +5,7 @@ return {{
   }, {
     name="Bet On Me",
     author="Walk Off The Earth",
-    path="MainMusic/BOM-WOFE.dfpwm",
+    path="MainMusic/BOM-WOTE.dfpwm",
   }, {
     name="Stairway To Heavan",
     author="Led Zeplin",
